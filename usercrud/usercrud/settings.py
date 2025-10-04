@@ -126,3 +126,4 @@ ADMIN_EMAIL = "admin@example.com"
 #         'rest_framework.permissions.AllowAny',
 #     ]
 # }
+print()
